@@ -1,5 +1,5 @@
 <div style='font-size:1.2em'>
-	<b>esh#1337</b>
+	  <img align="center" src="https://discord.c99.nl/widget/theme-1/434986484903444480.png" alt="Discord" />
 	<br>
 
 </div>
