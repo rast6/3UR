@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/[3ur])
+![Profile views](https://gpvc.arturio.dev/3ur)
 
 
 </center>
