@@ -10,7 +10,8 @@
 <br>
 <hr>
 
-<img src="https://komarev.com/ghpvc/?username=3UR&style=flat-square">
+![Profile views](https://gpvc.arturio.dev/[3ur])
+
 
 </center>
-<img align="center" src="https://discord.c99.nl/widget/theme-1/434986484903444480.png" alt="Discord" />
+
