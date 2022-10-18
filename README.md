@@ -11,7 +11,9 @@ You can call me La, I am a 16 year old developer.
 <hr>
 
 <h1>Discord</h1>
-[![Discord Presence](https://lanyard.cnrad.dev/api/434986484903444480)](https://discord.com/users/434986484903444480)
+<a href="#">
+  <img align="center" src="https://lanyard.cnrad.dev/api/434986484903444480"/>
+</a>
 
 <hr>
 
