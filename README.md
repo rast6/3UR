@@ -24,7 +24,4 @@ You can call me La, I am a 16 year old developer.
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3UR&langs_count=50&layout=compact&theme=dark)
-
-<a href="#">
-  <img align="center" src="https://gpvc.arturio.dev/3ur"/>
-</a>
+![Profile Views](https://gpvc.arturio.dev/3ur)
