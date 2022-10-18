@@ -20,7 +20,7 @@ You can call me La, I am a 16 year old developer.
 <h1>Stats</h1>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3UR"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3UR&theme=dark"/>
 </a>
 
 <a href="#">
