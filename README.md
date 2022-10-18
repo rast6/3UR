@@ -11,7 +11,7 @@ You can call me La, I am a 16 year old developer.
 <hr>
 
 <h1>Discord</h1>
-![Discord](https://lanyard.cnrad.dev/api/434986484903444480)
+[![Discord Presence](https://lanyard.cnrad.dev/api/434986484903444480)](https://discord.com/users/434986484903444480)
 
 <hr>
 
